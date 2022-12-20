@@ -1,0 +1,9 @@
+aiohttp[speedups]
+requests
+sqlalchemy
+asyncpg
+pydantic
+pytest
+psycopg2-binary
+python-dotenv
+bcrypt
